@@ -1,0 +1,37 @@
+/* Estilos normales del enlace */
+.custom-link {
+    border-bottom: 1px solid transparent; /* Línea inferior transparente por defecto */
+    transition: border-bottom 0.2s; /* Transición suave para la línea inferior */
+    margin-top: 35px ;
+  }
+  
+  /* Estilos cuando el cursor está sobre el enlace */
+  .custom-link:hover {
+    border-bottom: 1px solid #000; /* Mostrar línea inferior al pasar el cursor */
+  }
+  
+  /* Estilos cuando el enlace es activado (aplastado) */
+  .custom-link:active {
+    border-bottom: 1px solid #000;
+    font-Weight: bold ;
+    color: #000; /* Mostrar línea inferior cuando se aplasta el enlace */
+  }
+
+  /* Estilos normales del enlace */
+.custom {
+  border-bottom: 1px solid transparent; /* Línea inferior transparente por defecto */
+  transition: border-bottom 0.2s; /* Transición suave para la línea inferior */
+}
+
+/* Estilos cuando el cursor está sobre el enlace */
+.custom:hover {
+  border-bottom: 1px solid #2196F3; /* Mostrar línea inferior al pasar el cursor */
+}
+
+/* Estilos cuando el enlace es activado (aplastado) */
+.custom:active {
+  border-bottom: 1px solid #2196F3;
+  font-Weight: bold ;
+  color: #2196F3; /* Mostrar línea inferior cuando se aplasta el enlace */
+}
+  
