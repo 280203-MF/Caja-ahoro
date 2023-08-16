@@ -41,9 +41,6 @@ function App() {
           <Route path="indexcaja" element={< IndexAcaja/>} />
           <Route path="datoscaja" element={< DatosCaja/>} />
 
-
-          
-
             {/* Usuario */}
 
           <Route path="recuperar" element= { < VerificarNum/> } />
