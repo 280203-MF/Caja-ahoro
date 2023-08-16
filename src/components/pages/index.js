@@ -9,6 +9,15 @@ export * from './admin/CajasAhorro.jsx'
 export * from './admin/CajasUsu.jsx'
 
 
+/* Admin Caja */
+
+export * from './adminCaja/LoginCaja.jsx'
+export * from './adminCaja/IndexAcaja.jsx'
+export * from './adminCaja/DatosCaja.jsx'
+
+
+
+
 /* Usuario */
 export * from './usuario/VerificarNum.jsx' 
 export * from './usuario/NuevaContra.jsx'

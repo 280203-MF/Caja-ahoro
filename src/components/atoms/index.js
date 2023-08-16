@@ -11,6 +11,7 @@ export {BotonGuardar} from "./button/BotonGuardar"
 export {AtrasCel} from "./button/AtrasCel"
 export {GuardarCel} from "./button/GuardarCel"
 export {Continuar} from "./button/Continuar"
+export {ConAdmCaja} from "./button/ConAdmCaja"
 
 export {FechaActual} from "./accesorios/FechaActual"
 
